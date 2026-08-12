@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Tabla
+    order:
+      - file.name
+      - tags
+      - file.folder
+      - rank
+  - type: table
+    name: Átomos
+    filters:
+      and:
+        - file.inFolder("Átomos")
+    order:
+      - file.name
+      - rank
+      - Temas
+      - file.ctime
+    sort:
+      - property: rank
+        direction: DESC
+      - property: file.ctime
+        direction: ASC
