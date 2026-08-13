@@ -275,7 +275,7 @@ export const og: SocialImageOptions["Component"] = (
 
   return (
     <div
-      style={{
+      style={% raw %}{{
         position: "relative",
         display: "flex",
         flexDirection: "row",
@@ -284,7 +284,7 @@ export const og: SocialImageOptions["Component"] = (
         width: "100%",
         backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.jpeg")`,
         backgroundSize: "100% 100%",
-      }}
+      }}{% endraw %}
     >
       <div
         style={{
