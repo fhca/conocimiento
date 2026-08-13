@@ -208,17 +208,17 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: "fhca/conocimiento"
+        repoId: "R_kgDOT2y3YA"
         category: Announcements
-        categoryId: TODO:your-category-id
+        categoryId: "DIC_kwDOT2y3YM4DDQZ0"
         mapping: url
         strict: true
         reactionsEnabled: true
         inputPosition: bottom
         lightTheme: light
         darkTheme: dark
-        lang: en
+        lang: es
     layout:
       position: afterBody
       priority: 10
