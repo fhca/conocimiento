@@ -256,6 +256,23 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/obsidian-flavored-markdown
+    enabled: true
+    options:
+      comments: true
+      highlight: true
+      wikilinks: true
+      callouts: true
+      mermaid: true
+      parseTags: true
+      parseBlockReferences: true
+      enableInHtmlEmbed: false
+      enableYouTubeEmbed: true
+      enableTweetEmbed: true
+      enableVideoEmbed: true
+      enableCheckbox: false
+      enableObsidianUri: true
+    order: 30
 layout:
   groups:
     toolbar:
