@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: fhca/conocimiento/content
+  baseUrl: fhca/conocimiento
   ignorePatterns:
     - private
     - templates
@@ -114,12 +114,7 @@ plugins:
     options: {}
     order: 45
   - source: "@quartz-community/encrypted-pages"
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
+    enabled: false
   - source: "@quartz-community/stacked-pages"
     enabled: false
     layout:
@@ -209,10 +204,21 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: TODO:username/repo-name
+        repoId: TODO:your-repo-id
+        category: Announcements
+        categoryId: TODO:your-category-id
+        mapping: url
+        strict: true
+        reactionsEnabled: true
+        inputPosition: bottom
+        lightTheme: light
+        darkTheme: dark
+        lang: en
     layout:
       position: afterBody
       priority: 10
@@ -226,7 +232,15 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: Recent Notes
+      limit: 5
+      linkToMore: false
+      showTags: true
+    layout:
+      position: left
+      priority: 25
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -256,23 +270,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:quartz-community/obsidian-flavored-markdown
-    enabled: true
-    options:
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseBlockReferences: true
-      enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableTweetEmbed: true
-      enableVideoEmbed: true
-      enableCheckbox: false
-      enableObsidianUri: true
-    order: 30
 layout:
   groups:
     toolbar:
