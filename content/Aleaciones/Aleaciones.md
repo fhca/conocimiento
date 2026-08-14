@@ -1,14 +1,7 @@
 ---
-aliases:
-tags:
-  - MoC
-URL:
-Temas:
-Número de página:
-rank: 1
+rank:
 destacado:
 destacado_en:
-  - "[[index]]"
 ---
 
 ## Destacados
