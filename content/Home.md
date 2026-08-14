@@ -1,4 +1,5 @@
 ---
+draft: "false"
 rank:
 destacado:
 destacado_en:
@@ -12,3 +13,7 @@ destacado_en:
 
 ## Modificados recientemente
 ![[MOC.base#subcarpetas]]
+
+ 
+
+

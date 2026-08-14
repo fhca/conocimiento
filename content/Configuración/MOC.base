@@ -1,0 +1,67 @@
+filters:
+  and:
+    - file != this.file
+formulas:
+  this file as link: this.file.asLink()
+views:
+  - type: table
+    name: destacados
+    filters:
+      or:
+        - and:
+            - file.folder == this.file.folder
+            - destacado == true
+        - and:
+            - destacado_en.containsAny(this.file.name)
+    order:
+      - file.name
+      - rank
+      - file.mtime
+      - destacado
+      - file.folder
+    sort:
+      - property: this.folder
+        direction: ASC
+      - property: rank
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    limit: 20
+    columnSize:
+      file.name: 378
+      note.rank: 83
+  - type: table
+    name: aqui
+    filters:
+      or:
+        - file.folder == this.file.folder
+        - if(this.file.folder=="/", file.path.split(file.name+"/"+file.fullname)[0] == "" ,file.path.split("/"+file.name+"/"+file.fullname)[0] == this.file.folder)
+    order:
+      - file.name
+      - rank
+      - file.mtime
+      - destacado
+    sort:
+      - property: rank
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.rank: 76
+  - type: table
+    name: subcarpetas
+    filters:
+      or:
+        - file.inFolder(this.file.folder)
+    order:
+      - file.name
+      - rank
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 20
+    columnSize:
+      note.rank: 76

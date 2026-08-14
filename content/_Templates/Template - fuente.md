@@ -3,8 +3,9 @@ tags:
   - Fuente
 URL:
 Temas:
-Creación de nota: <% tp.file.creation_date("YYYYMMDD") %>
 rank:
+destacado:
+destacado_en:
 ---
 ## Resumen
 

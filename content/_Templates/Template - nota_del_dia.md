@@ -1,7 +1,6 @@
 ---
 tags:
   - nota_del_dia
-Creación de nota: <% tp.file.creation_date("YYYYMMDD") %>
 rank:
 ---
 

@@ -3,8 +3,9 @@ aliases:
 tags:
   - molécula
 Temas:
-Creación de nota: <% tp.file.creation_date("YYYYMMDD") %>
 rank:
+destacado:
+destacado_en:
 ---
 Este es el generador de ideas, nuestra mente externa o nuestro  cajón de pensamiento
 Percepciones, ideas, o conexiones entre [[Template - Átomo (nota literaria)]]

@@ -4,8 +4,9 @@ tags:
   - aleación
 Temas:
 URL:
-Creación de nota: <% tp.file.creation_date("YYYYMMDD") %>
 rank:
+destacado:
+destacado_en:
 ---
 
 secuencia de moléculas

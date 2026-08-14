@@ -7,4 +7,6 @@ Temas:
 Número de página:
 Creación de nota: <% tp.file.creation_date("YYYYMMDD") %>
 rank:
+destacado:
+destacado_en:
 ---
