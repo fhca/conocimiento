@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 Ya se ha visto el caso de que un [[mapeo]] [[convergencia|converja]] a un punto o valor. Sin embargo si no converge, nos va a interesar el caso cuando $\lim_{n\rightarrow\infty}f^n(x) = C$, para un conjunto de puntos $C$ llamado el *atractor* de $f$.
 Esto último se puede escribir con la definición de límites de esta manera:

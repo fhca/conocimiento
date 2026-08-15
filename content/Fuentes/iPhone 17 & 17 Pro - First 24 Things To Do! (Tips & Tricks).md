@@ -10,7 +10,9 @@ author:
 description: iPhone 17, iPhone 17 Pro & iPhone Air - First 24 Things To Do! | iPhone 17 Tips & Tricks + Settings to Change
 published: 2025-09-22
 Temas:
-Creado: 20251011
+Creado:
+destacado:
+destacado_en:
 ---
 
 ![](https://www.youtube.com/watch?v=KcMDuJFBXsU)

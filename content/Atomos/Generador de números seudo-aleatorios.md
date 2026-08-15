@@ -6,8 +6,10 @@ URL:
 Temas:
   - "[[Programación]]"
 Número de página:
-Creación de nota: 20250827
+Creación de nota:
 rank: 4
+destacado:
+destacado_en:
 ---
 
 # 1. Generar una [[órbita]] de un [[mapeo]] con características caóticas

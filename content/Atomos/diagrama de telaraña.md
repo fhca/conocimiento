@@ -6,8 +6,9 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
 rank: 1
+destacado:
+destacado_en:
 ---
 
 Es una forma gráfica de representar un [[mapeo]] $f(x):\textbf{R}\longrightarrow \textbf{R}$. Consiste en dibujar una diagonal a 45º sobre los ejes de coordenadas, fijándonos en especial en el intervalo sobre el eje $x$: $X=[\text{xmin}, \text{xmax}]$; donde $f(X)\subseteq X$. A continuación dibujar el mapeo de la siguiente manera:

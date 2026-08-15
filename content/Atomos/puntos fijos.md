@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 Un punto fijo $x_0$ del [[mapeo]] $f(x)$ es tal que $f(x_0)=x_0$, es decir, es un valor que no varía tras la aplicación del mapeo.
 Los puntos fijos se obtienen igualando a $x$, es decir $f(x)=x$, y despejando para $x$.

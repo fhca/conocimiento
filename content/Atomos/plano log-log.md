@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 
-Toda función o [[mapeo]] $f:\mathbb{R}\longrightarrow\mathbb{R}$ se puede graficar en el plano "log-log", es decir, poner los valores de $\log(x)$ en la abscisa y los valores de $\log(f(x))$ en la ordenada.
+Toda función $f:\mathbb{R}\longrightarrow\mathbb{R}$ se puede graficar en el plano "log-log", es decir, poner los valores de $\log(x)$ en la abscisa y los valores de $\log(f(x))$ en la ordenada.

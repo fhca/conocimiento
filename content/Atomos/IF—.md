@@ -7,8 +7,9 @@ Temas:
   - Rudyard Kipling
   - Poema
 Número de página: "1"
-Creación de nota: 20250821
 rank: 1
+destacado:
+destacado_en:
 ---
 Si puedes mantener la cabeza fría cuando todos a tu alrededor   
     la pierden y te culpan a ti,   
@@ -17,7 +18,7 @@ si puedes confiar en ti mismo cuando todos dudan de ti,
 Si puedes esperar sin cansarte de esperar,
     o ser calumniado, sin recurrir a la calumnia,
 o ser odiado, sin ceder al odio,
-    y sin embargo no parecer demasiado bueno, ni hablar con demasiada sabiduría:
+    y sin embargo no parecer demasiado bueno, ni hablar con demasiada sabiduría;
 
 Si puedes soñar, y no hacer de los sueños tu amo;   
     si puedes pensar, y no hacer de los pensamientos tu objetivo;   
@@ -26,7 +27,7 @@ Si puedes enfrentarte al triunfo y al desastre
 Si puedes soportar oír la verdad que has dicho
     tergiversada por sinvergüenzas para tender una trampa a los necios,
 o ver cómo se rompen las cosas a las que has dedicado tu vida,
-    y agacharte y reconstruirlas con herramientas gastadas:
+    y agacharte y reconstruirlas con herramientas gastadas;
 
 Si puedes hacer una pila con todas tus ganancias
     y arriesgarlas en una sola tirada de moneda,

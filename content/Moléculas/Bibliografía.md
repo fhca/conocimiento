@@ -1,12 +1,13 @@
 ---
 aliases:
 tags:
-  - MoC
   - átomo
 Temas:
   - Complejidad
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 
 [[@Mitchell]]

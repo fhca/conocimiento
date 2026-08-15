@@ -7,8 +7,10 @@ Temas:
   - "[[Programación]]"
   - "[[Python]]"
 Número de página:
-Creación de nota: 20250802
+Creación de nota:
 rank: 2
+destacado:
+destacado_en:
 ---
 
 ## Ejecutar Python sin instalar

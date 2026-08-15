@@ -11,7 +11,9 @@ description: The official home of the Python Programming Language
 published: 2025-07-24
 Temas:
   - "[[Programación]]"
-Creado: 20250802
+Creado:
+destacado:
+destacado_en:
 ---
 #### Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 

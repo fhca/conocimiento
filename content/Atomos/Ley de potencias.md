@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 Algunos sistemas siguen un comportamiento de Ley de Potencias. Una función del tipo $f(x)=kx^m$ se le llama ley de potencias con coeficiente $k$ y exponente $m$.
 Si hacemos $y=f(x)$, tenemos

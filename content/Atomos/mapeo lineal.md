@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 
 Ejemplo 1: Una recta horizontal $f(x)=k$ es demasiado simple y $f^n(x)=k$. Su órbita es $\{k,k,\ldots\}$.

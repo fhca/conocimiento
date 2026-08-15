@@ -1,16 +1,18 @@
 ---
 tags:
-  - "Fuente"
-  - "revisar"
-  - "web"
+  - Fuente
+  - revisar
+  - web
 title: "Obsidian Notes The #1 Note-Taking Mistake I Was Making"
-URL: "https://www.youtube.com/watch?v=AWX2h9LU4Wg"
+URL: https://www.youtube.com/watch?v=AWX2h9LU4Wg
 author:
   - "[[Frank Anaya & CO.]]"
-description: "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube."
+description: Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.
 published: 2025-07-15
 Temas:
-Creado: 20250810
+Creado:
+destacado:
+destacado_en:
 ---
 Sistema SPARK
 

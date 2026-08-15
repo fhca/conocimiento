@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 4
+destacado:
+destacado_en:
 ---
 La logística es una función ([[mapeo]]) que inicialmente se utilizó para modelar el crecimiento poblacional. En su versión diferencial, es decir, la razón de cambio de una etapa a la siguiente, se puede escribir como
 $$f_k(x)=kx(1-x)$$

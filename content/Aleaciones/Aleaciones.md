@@ -2,6 +2,7 @@
 rank:
 destacado:
 destacado_en:
+  - "[[index]]"
 ---
 
 ## Destacados

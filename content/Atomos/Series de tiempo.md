@@ -1,12 +1,14 @@
 ---
 tags:
   - átomo
-Creación de nota: 2026-03-04
+Creación de nota:
 rank:
 aliases:
 URL:
 Temas:
 Número de página:
+destacado:
+destacado_en:
 ---
 Es una colección de datos tomados a intervalos regulares de tiempo.
 

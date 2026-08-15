@@ -7,8 +7,10 @@ Temas:
   - Complejidad
   - "[[Programación]]"
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 
 [diagrama de telaraña en Python]()

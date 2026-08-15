@@ -7,8 +7,10 @@ Temas:
   - "[[Programación]]"
   - Complejidad
 Número de página:
-Creación de nota: 20250827
+Creación de nota:
 rank: 4
+destacado:
+destacado_en:
 ---
 
 hablar de …

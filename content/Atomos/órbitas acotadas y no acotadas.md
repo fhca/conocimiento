@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 
 La [[órbita]] del [[mapeo]] $f(x)$ se dice *acotada* si existe una $K$ tal que $|f^n(x)|<K$ para toda $n$, de lo contrario se dice que es *no acotada*.

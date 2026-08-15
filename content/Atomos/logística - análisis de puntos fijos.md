@@ -6,8 +6,10 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
+Creación de nota:
 rank: 1
+destacado:
+destacado_en:
 ---
 ## Puntos fijos
 Para obtener los [[puntos fijos]] del [[mapeo logístico]] $f(x)=kx(1-x)$ basta con igualarlo y despejar para $x$ de esta manera: 

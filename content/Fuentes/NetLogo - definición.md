@@ -10,7 +10,9 @@ published:
 Temas:
   - "[[Programación]]"
   - Netlogo
-Creado: 20250802
+Creado:
+destacado:
+destacado_en:
 ---
 
 NetLogo is a multi-agent programmable modeling environment. It is used by many hundreds of thousands of students, teachers, and researchers worldwide. It also powers [HubNet](https://ccl.northwestern.edu/netlogo/hubnet.html) participatory simulations. It is authored by [Uri Wilensky](https://ccl.northwestern.edu/uri/) and developed at the [CCL](https://ccl.northwestern.edu/). You can download it free of charge. You can also try it online through [NetLogo Web](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Traffic%20Basic.nlogo).

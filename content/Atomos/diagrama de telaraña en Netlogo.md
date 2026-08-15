@@ -6,8 +6,10 @@ Temas:
   - "[[Programación]]"
   - Complejidad
 Número de página:
-Creación de nota: "20250731"
 URL:
 rank: 1
+destacado:
+destacado_en:
 ---
+
 [diagrama de telaraña en Netlogo](logistica.nlogo)

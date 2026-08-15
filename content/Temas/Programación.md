@@ -6,7 +6,9 @@ URL:
 Temas:
   - "[[Programación]]"
 Número de página:
-Creación de nota: 20250802
+Creación de nota:
+destacado:
+destacado_en:
 ---
 
 Introducir instrucciones a una computadora para que esta realice acciones.

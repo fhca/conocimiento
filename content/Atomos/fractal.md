@@ -7,8 +7,10 @@ Temas:
   - Complejidad
   - "[[Programación]]"
 Número de página:
-Creación de nota: 20250827
+Creación de nota:
 rank: 4
+destacado:
+destacado_en:
 ---
 Independientemente de que se pueda pensar en [[fractales temporales|fractal temporal]] u otros, la definición original es geométrica:
 Un fractal es el [[atractor]] de un [[sistema dinámico]], que debe cumplir con todas las siguientes propiedades:
