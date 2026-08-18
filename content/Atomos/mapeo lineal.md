@@ -34,7 +34,7 @@ f^n(x)&=k^nx+B,\\
 \end{aligned}
 $$
 
-donde $B=\sum_{i=0}^{n-1}k^ib$. Lo que de nuevo converge para $|k|\le1$ y diverge en caso contrario.
+donde $B=\sum_{i=0}^{n-1}k^ib$. Lo que de nuevo converge a cero para $|k|\le1$ y diverge en caso contrario.
 
 En el programa [[diagrama de telaraña en Python]], usando la función "Linear" podemos ver el [[diagrama de telaraña]] de una recta que pasa por el punto $(0, 0.5)$. Variando $k$ en $[0, 4]$ obtenemos rectas con pendientes en $[-0.5, 0.5]$. Toda [[órbita]] tiene [[convergencia]] a un [[puntos fijos|punto fijo]] [[atractor]]. Para calcularlo usamos la ecuación $f(x)=x$ de esta manera:
 
