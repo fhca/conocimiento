@@ -24,4 +24,4 @@ No es serie de tiempo:
 	- 27, 14, 3, 30, 50, 45
 - Precios de producto
 
-Si generamos una serie de tiempo con valores [[Generador de números seudo-aleatorios|aleatorios]], podríamos tener propiedades que se pueden estudiar como [[DFA]], [[Hurst]], y otras propiedades [[fractal|fractales]].
+Si generamos una serie de tiempo con valores [[Números seudo-aleatorios|aleatorios]], podríamos tener propiedades que se pueden estudiar como [[DFA]], [[Hurst]], y otras propiedades [[fractal|fractales]].

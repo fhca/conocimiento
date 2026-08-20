@@ -19,4 +19,6 @@ destacado_en:
 
 
 # 2. Verificar si es ”seudo-aleatorio”
+EDITAR
 
+ver [[azar]]
