@@ -1,7 +1,6 @@
 ---
 tags:
   - átomo
-Creación de nota:
 rank:
 aliases:
 URL:

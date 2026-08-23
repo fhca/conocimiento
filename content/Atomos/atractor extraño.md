@@ -7,7 +7,6 @@ URL:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota:
 rank: 1
 destacado:
 destacado_en:

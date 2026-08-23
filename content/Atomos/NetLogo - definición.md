@@ -6,11 +6,9 @@ title: NetLogo Home Page
 URL: https://ccl.northwestern.edu/netlogo/
 author:
 description:
-published:
 Temas:
   - "[[Programación]]"
   - Netlogo
-Creado:
 destacado:
 destacado_en:
 ---

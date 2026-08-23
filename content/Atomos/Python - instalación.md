@@ -7,7 +7,6 @@ Temas:
   - "[[Programación]]"
   - "[[Python]]"
 Número de página:
-Creación de nota:
 rank: 2
 destacado:
 destacado_en:

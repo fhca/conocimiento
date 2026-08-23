@@ -7,7 +7,6 @@ Temas:
   - "[[Programación]]"
   - Netlogo
 Número de página:
-Creación de nota:
 rank: 2
 destacado:
 destacado_en:

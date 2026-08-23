@@ -8,10 +8,8 @@ URL: https://www.python.org/
 author:
   - "[[Python.org]]"
 description: The official home of the Python Programming Language
-published: 2025-07-24
 Temas:
   - "[[Programación]]"
-Creado:
 destacado:
 destacado_en:
 ---

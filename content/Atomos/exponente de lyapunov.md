@@ -5,7 +5,6 @@ tags:
 Temas:
   - Complejidad
 Número de página:
-Creación de nota:
 rank: 4
 destacado:
 destacado_en:
