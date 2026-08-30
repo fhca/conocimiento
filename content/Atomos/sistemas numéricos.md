@@ -30,3 +30,6 @@ Debe distinguirse los números complejos de los [[sistemas complejos]].
 - Juntos, racionales e irracionales nos dan los reales ($\mathbb{R}$)
 - Los números complejos ($\mathbb{C}$) surgen de la combinación lineal de reales y el valor $i=\sqrt{-1}$ 
   Ej. $1+\sqrt{2}i$, $-i$, $7 = 7+0i$, ...
+
+ver también:
+[[Números seudo-aleatorios]]

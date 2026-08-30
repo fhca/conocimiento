@@ -11,13 +11,8 @@ destacado:
 destacado_en:
 ---
 
-# 1. Generar una [[órbita]] de un [[mapeo]] con características caóticas
-## 1.1. Utilizar el mapeo logístico con k > 3
+Los números pseudoaleatorios son aquellos generados por algoritmos deterministas y que, sin embargo, cumplen con muchas características de números "realmente aleatorios". Existen algunas normas para recomendar la generación de números aleatorios mediante generadores. Para recomendar fuentes de entropía para la generación de bits aleatorios y para recomendar la construcción de generadores de bits aleatorios en el [NIST](https://csrc-nist-gov.translate.goog/projects/random-bit-generation?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge). Este mismo instituto ofrece un conjunto completo de [pruebas estadísticas](https://csrc-nist-gov.translate.goog/projects/random-bit-generation?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge) diseñadas para evaluar la calidad y aleatoriedad de las frecuencias de bits para aplicaciones criptográficas. 
 
-## $f_k(x)=kx(1-x)$
-
-
-# 2. Verificar si es ”seudo-aleatorio”
-EDITAR
-
-ver [[azar]]
+ver también:
+[[azar]]
+[[ruido de colores]]

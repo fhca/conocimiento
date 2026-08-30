@@ -12,6 +12,8 @@ destacado:
 destacado_en:
 ---
 
+
+
 hablar de …
 ## Dimensión geométrica
 ## Dimensión topológica

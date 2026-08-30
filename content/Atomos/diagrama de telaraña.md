@@ -19,5 +19,5 @@ Es una forma gráfica de representar un [[mapeo]] $f(x):\textbf{R}\longrightarro
 5. Hacer $i = i+1$ y repetir desde el paso 3
 
 Programas de ejemplo:
-- [[diagrama de telaraña en Netlogo]]
-- [[diagrama de telaraña en Python]]
+- [diagrama de telaraña en Netlogo](logistica.nlogo)
+- [diagrama de telaraña en Python](https://colab.research.google.com/drive/1cU-AvvgHt5v4WDELKHt1VLh7OZj3FkII)
