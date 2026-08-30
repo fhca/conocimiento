@@ -3,7 +3,7 @@ rank:
 destacado:
 destacado_en:
 ---
-Basándonos en el [artículo](https://www.revistacienciasunam.com/en/105-revistas/revista-ciencias-54/894-el-color-del-ruido.html) de Pedro Miramontes, el ruido de colores se refiere a una forma de clasificar procesos aleatorios según su espectro de frecuencias.
+Basándonos en el [artículo](https://www.revistacienciasunam.com/en/105-revistas/revista-ciencias-54/894-el-color-del-ruido.html) de Pedro Miramontes, el ruido de colores se refiere a una forma de clasificar procesos [[azar|aleatorios]] según su espectro de frecuencias.
 
 En dicho artículo se parte de la analogía entre luz, sonido y series de tiempo. Cualquier señal que varía en el tiempo (una grabación de audio, el tráfico vehicular, la bolsa, la actividad sísmica, el disparo de neuronas) puede descomponerse en frecuencias con la transformada de Fourier. El “color” del ruido describe cómo se distribuye la potencia entre las distintas frecuencias.
 
@@ -15,7 +15,7 @@ En dicho artículo se parte de la analogía entre luz, sonido y series de tiempo
 - $a = 2$: café (relacionado con movimiento browniano)
 - $a = 3$: negro, en el sentido técnico de Schroeder
 
-El caso más interesante para el artículo es el **ruido rosa**: su espectro es $1/f$ (en escala logarítmica es una recta de pendiente cercana a −1). Es una especie de mezcla entre blanco (todas las frecuencias están presentes) y rojo (predominan más las bajas frecuencias que las altas). Lo notable es que este tipo de ruido aparece en fenómenos muy diversos: fluctuaciones de la radiación solar, variaciones del índice bursátil, tráfico de la ciudad, disparos neuronales, variabilidad en la luminosidad de estrellas, incluso en patrones estadísticos del lenguaje. Esa ubicuidad lleva a Miramontes a discutir ideas como la criticalidad autoorganizada de Bak y, en general, leyes de potencias $1/f^{a}$ como firma de procesos dinámicos complejos.
+El caso más interesante para el artículo es el **ruido rosa**: su espectro es $1/f$ (en escala logarítmica es una recta de pendiente cercana $a −1$). Es una especie de mezcla entre blanco (todas las frecuencias están presentes) y rojo (predominan más las bajas frecuencias que las altas). Lo notable es que este tipo de ruido aparece en fenómenos muy diversos: fluctuaciones de la radiación solar, variaciones del índice bursátil, tráfico de la ciudad, disparos neuronales, variabilidad en la luminosidad de estrellas, incluso en patrones estadísticos del lenguaje. Esa ubicuidad lleva a Miramontes a discutir ideas como la criticalidad autoorganizada de Bak y, en general, leyes de potencias $1/f^{a}$ como firma de procesos dinámicos complejos.
 
 El siguiente código nos puede generar la serie de ruidos con el exponente que se le dé.
 
